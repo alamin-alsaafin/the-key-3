@@ -616,7 +616,7 @@ footer img{
 
 }
 .two-top.right-lang{
-    right: 0px;
+    left: 0;
     top: 80px;
     z-index: 999;
 }
@@ -1699,7 +1699,7 @@ span.language-btn:before {
     text-decoration: none !important;
 }
 .lang-content ul li a b {
-    padding:10px;
+    /*padding:10px;*/
     background-color:#eee;
     margin-right:10px;
     -webkit-border-radius:50%;
@@ -1709,6 +1709,11 @@ span.language-btn:before {
     -moz-transition: all 200ms ease;
     transition: all 200ms ease;
     font-weight:bold;
+    height: 40px;
+    line-height: 40px;
+    width: 40px;
+    display: inline-block;
+    text-align: center;
 }
 .lang-content ul li:hover b {
     background-color:#2aaae1;

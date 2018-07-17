@@ -142,7 +142,7 @@ was between the east and the west.”
             </div>
             <div class="row">
                 <div class="col text-center">
-                    <img class="img-fluid" src="img/islam.jpg" alt="">
+                    <img class="img-fluid ilsam-IMG" src="img/islam.jpg" alt="">
                 </div>
             </div>
         </div>

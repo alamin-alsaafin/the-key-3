@@ -4,9 +4,8 @@
         <h3 class="h3-footer">
             Published by
         </h3>
-        <p class="footer-det">Osoul Center in cooperation with the Australian Science and Research Academy.
-            <br>
-            Osoul Center,  2018  All rights reserved.
+        <p class="footer-det">Osoul Center, 2018 All rights reserved.  
+        
         </p>
     </div>
 </footer>
@@ -51,6 +50,7 @@
 
         });
     });
+    
     $('.right-menu li:has(> ul)').addClass("haschaid");
 
     //
@@ -143,7 +143,17 @@
         }
     });
 </script>
-
+<script>
+    (function() {
+        var cx = '004323501169046690086:vfsrgfm1thu';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
 <script src="js/wow.min.js"></script>
 
 <!-- Go to <a href="http://www.addthis.com/dashboard">www.addthis.com/dashboard</a> to customize your tools -->

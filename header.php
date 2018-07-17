@@ -91,7 +91,7 @@
                         <li class=""><a href="#"><b>NB</b><span>Bokmål</span></a></li>
                         <li class=""><a href="#"><b>DA</b><span>dansk</span></a></li>
                         <li class=""><a href="#"><b>DE</b><span>Deutsch</span></a></li>
-                        <li class=""><a href=""><b>EN</b><span>English</span></a></li>
+                        <li class=""><a href=""><b class="active">EN</b><span>English</span></a></li>
                         <li class=""><a href=""><b>FR</b><span>français</span></a></li>
                         <li class=""><a href=""><b>GA</b><span>Gaeilge</span></a></li>
                         <li class=" "><a href=""><b>IT</b><span>italiano</span></a></li>
@@ -112,8 +112,10 @@
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
-                   <input type="text" placeholder="search here .." name="" class="input-search">
-                   <a href="#" class="a-search-icon"><i class="fa fa-search"></i></a>
+    <gcse:search>
+    </gcse:search>
+                   <!--<input type="text" placeholder="search here .." name="" class="input-search">
+                   <a href="#" class="a-search-icon"><i class="fa fa-search"></i></a>-->
 
     </div>
   </div>

@@ -60,7 +60,7 @@ include ('header.php');
                         <span class="hover"><span class="inner">READ MORE</span></span>
                     </a>
             </div>
-            <div class="col-md-6 padding-50px-x">
+            <div class="col-md-6 padding-50px-x what-the-islam-sec">
                 <div class="row">
                     <div class="col-md-6 box-header-left">
                         <h1 class="title-head">
@@ -77,11 +77,9 @@ include ('header.php');
                     <div class="col-md-6 padding-0px"></div>
                     <div class="col-md-6 box-header-left box-header-right">
                         <h1 class="title-head">
-                            WHAT IS ISLAM?
+                            WHAT IS THE QUR’AN?
                         </h1>
-                        <p>Islam is to submit to Allah
-                            His Oneness (Monotheism),
-                            to be subservient to Him in
+                        <p>he Qur’an is the constitution of the Muslims from which they derive the teachings 
                         </p>
                     </div>
                 </div>
@@ -207,6 +205,14 @@ include ('header.php');
             <div class="img-parlex-right" style="background-image: url('img/img1.jpg')">
                 <div class="row right-box-big-khzoog">
 
+                    <a href="the-pillars-of-islam.php" class="col height-top back-1" data-1500=""
+                         data-1800="" style="background:url(../img/islam2.jpg)">
+
+                        <h5>
+                            <span class="text text-uppercase">MOUNT HIRAA</span>
+                            <span class="hover text-uppercase">MOUNT HIRAA</span>
+                        </h5>
+                    </a>
                     <a href="the-pillars-of-islam.php" class="col height-top back-1" data-1500=""
                          data-1800="">
 
