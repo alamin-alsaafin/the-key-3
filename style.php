@@ -135,7 +135,7 @@
     transition: all 200ms ease;
     font-weight:bold;
     height: 40px;
-    line-height: 23px;
+    line-height: 40px;
     width: 40px;
     display: inline-block;
     text-align: center;
