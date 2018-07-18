@@ -102,20 +102,20 @@ include ('header.php');
             <div class="col-lg-6 padding-left-60px order-lg-first">
 
                 <div class="text-content text-content-right">
-                    <h2 class="top-title   wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay="0.4s"
+                    <h2 class="top-title   wow fadeInUp" data-wow-duration="0.2s" data-wow-delay="0.4s"
                         data-295="m" data-350="">WHAT DO THEY
                         SAY</h2>
-                    <h1 class="top-title-big   wow fadeInLeft" data-wow-duration="0.3s" data-wow-delay="0.5s"
+                    <h1 class="top-title-big   wow fadeInUp" data-wow-duration="0.3s" data-wow-delay="0.5s"
                         data-295=" " data-350="">ABOUT
                         ISLAM?</h1>
-                    <p class="sum-dit   wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.7s"
+                    <p class="sum-dit   wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s"
                        data-295=" " data-350="">
                         He is Muhammad, the son of Abdullah, the son of Abdul-Muttalib, the son of Hashim. His nickname
                         is Abul-Qasim. He belonged to the Arab tribe of Quraish whose ancestry traces back to ‘Adnaan,
                         one of the children of Ismaa’eel
                     </p>
                     <div>
-                        <a href="What-is-Islam.php#What_do_they_say_about_Islam" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.9s"
+                        <a href="What-is-Islam.php#What_do_they_say_about_Islam" class="btn btn-primary   wow fadeInUp" data-wow-duration="0.9s"
                            data-wow-delay="0.8s" data-295=""
                            data-350="">
                             <span class="text"><span class="inner">READ MORE</span></span>
@@ -136,20 +136,20 @@ include ('header.php');
 
 
                 <div class="text-content text-content-left">
-                    <h2 class="top-title   wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.8s"
+                    <h2 class="top-title   wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.8s"
                         data-780="" data-830="">THE
                         PILLARS</h2>
-                    <h1 class="top-title-big   wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.8s"
+                    <h1 class="top-title-big   wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s"
                         data-780="" data-830="">OF
                         ISLAM</h1>
-                    <p class="sum-dit   wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.8s"
+                    <p class="sum-dit   wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s"
                        data-780=" " data-830="">
                         Physical and verbal acts of worship are called the Pillars of Islam. The most essential of them
                         are known as the fve Pillars of Islam
 
                     </p>
                     <div>
-                        <a href="the-pillars-of-islam.php" class="btn btn-primary   wow fadeInRight" data-wow-duration="0.9s"
+                        <a href="the-pillars-of-islam.php" class="btn btn-primary   wow fadeInUp" data-wow-duration="0.9s"
                            data-wow-delay="0.8s" data-780=""
                            data-800="margin-left: 0px ; opacity: 1;">
                             <span class="text"><span class="inner">READ MORE</span></span>
@@ -176,11 +176,11 @@ include ('header.php');
         <div class="col-md-6 padding-left-150px order-md-first">
 
             <div class="text-content text-content-right">
-                <h2 class="top-title  wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay="0.8s"
+                <h2 class="top-title  wow fadeInUp" data-wow-duration="0.2s" data-wow-delay="0.8s"
                     data-850="" data-1000="">WHAT IS THE</h2>
-                <h1 class="top-title-big  wow fadeInLeft" data-wow-duration="0.3s" data-wow-delay="0.9s"
+                <h1 class="top-title-big  wow fadeInUp" data-wow-duration="0.3s" data-wow-delay="0.9s"
                     data-850="" data-1000="">QUR’AN?</h1>
-                <p class="sum-dit  wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="1s"
+                <p class="sum-dit  wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="1s"
                    data-850="" data-1000="">
                     The Qur’an is the constitution of the Muslims from which they derive the teachings which organize
                     both their reli gious and everyday aﬀairs. It diﬀers from the previous Divine
@@ -188,7 +188,7 @@ include ('header.php');
 
                 </p>
                 <div>
-                    <a href="What-is-the-Quran.php" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.8s"
+                    <a href="What-is-the-Quran.php" class="btn btn-primary   wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s"
                        data-850="" data-1000="margin-left: 0px ; opacity: 1;">
                         <span class="text"><span class="inner">READ MORE</span></span>
                         <span class="hover"><span class="inner">READ MORE</span></span>
@@ -247,10 +247,10 @@ include ('header.php');
         </div>
         <div class="col-md-6 padding-right-150px">
             <div class="text-content">
-                <h1 class="top-title  wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.8s"
+                <h1 class="top-title  wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.8s"
                     data-1500="" data-1600="">WHAT DO YOU
                     KNOW ABOUT ISLAM?</h1>
-                <p class="sum-dit sum-det-custom  wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.8s"
+                <p class="sum-dit sum-det-custom  wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s"
                    data-1600="" data-1700="">
                     The Ka'bah
                     The Black Stone<br>
@@ -289,8 +289,8 @@ include ('header.php');
         <div class="col-md-6 padding-left-150px">
 
             <div class="text-content">
-                <h2 class="top-title wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay="0.2s">Rights in Islam</h2>
-                <p class="sum-dit wow fadeInLeft" data-wow-duration="0.3s" data-wow-delay="0.3s">
+                <h2 class="top-title wow fadeInUp" data-wow-duration="0.2s" data-wow-delay="0.2s">Rights in Islam</h2>
+                <p class="sum-dit wow fadeInUp" data-wow-duration="0.3s" data-wow-delay="0.3s">
                     Islam has prescribed that its followers give people their due rights. Parents, spouses, children,
                     neighbors; all are given specifc rights according to their specifc roles in this world. Accordingly,
                     mutual bonds and solidity can be established and strengthened between the individuals of a Muslim
@@ -299,9 +299,9 @@ include ('header.php');
                     the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those
                     whom your right hands possess.
                 </p>
-                <h2 class="top-title wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.4s">Islam and
+                <h2 class="top-title wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">Islam and
                     Wealth</h2>
-                <p class="sum-dit wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <p class="sum-dit wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                     In Islam, all wealth is the possession of Allah with which humans are entrusted. It is a
                     responsibility which must be earned through permissible means and spent in permissible ways, such as
                     spending on one’s self and those for whom he is responsible for, without extravagance or waste.
@@ -309,8 +309,8 @@ include ('header.php');
                     account for [the following things]: his time and how he spent it,his knowledge and how he used it,
                     his money and how
                 </p>
-                <h2 class="top-title wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.6s">Islam and Women</h2>
-                <p class="sum-dit wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.7s">
+                <h2 class="top-title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Islam and Women</h2>
+                <p class="sum-dit wow fadeInUp" data-wow-duration="0.7s" data-wow-delay="0.7s">
                     In Islam, men and women are diﬀerent from each other and each has their respective roles. Honoring
                     and respecting women in Islam is a sign of a good, wholesome character and an unadulterated
                     nature“The bestof you are the ones who are best towards their wives.” (Tirmidhi)

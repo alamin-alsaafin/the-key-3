@@ -12,6 +12,10 @@
 <link href="css/style.css" rel="stylesheet">
 <style type="text/css">
 	/*search css code*/
+    .box-header-left h1
+{
+  font-size: 36px !important;
+}
 .gsc-control-cse
 {
     position: absolute !important;
