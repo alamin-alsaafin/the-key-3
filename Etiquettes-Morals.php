@@ -47,7 +47,7 @@ include('header.php');
             </div>
             <div class="row text-justify">
                 <div class="col-lg-5 order-lg-1  text-center">
-                    <img data-aos="flip-right" class="img-fluid" src="img/islam2.jpg" alt="">
+                    <img data-aos="flip-right" class="img-fluid islam2IMG" src="img/islam2.jpg" alt="">
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 " data-aos="fade-up">
 

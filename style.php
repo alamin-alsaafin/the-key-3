@@ -11,6 +11,18 @@
 <link rel="stylesheet" href="css/fontawesome-all.min.css">
 <link href="css/style.css" rel="stylesheet">
 <style type="text/css">
+.lang-content ul li
+{
+    width: 33.3%;
+}
+.lang-content ul li a b
+{
+    /*display: block !important;*/
+}
+.h3-footer
+{
+    font-size: 18px !important;
+}
 	/*search css code*/
     .box-header-left h1
 {
@@ -49,28 +61,30 @@
     right: -16%;
     margin-top: 48% !important;
 }
+@media (max-width: 1024px)
+{
+    .right-line-to-top,.home .center-line-to-top,
+    .left-line-to-top,.line-to-top,.line-one-top,
+    .line-to-right,.line-two-top,.line-to-right
+    {
+        display: none !important;
+    }
+}
 @media (max-width: 991px)
 {
 	.input-search
 	{
 		margin-left: -25% !important;
 	}
-}
-@media (max-width: 767px)
-{
-	.a-search-icon {
-	    color: #32a5aa !important;
-	    position: absolute !important;
-	    font-size: 20px !important;
-	    right: 4%;
-	    margin-top: 50% !important;
-	}
-	.input-search {
-    	margin-left: -1% !important;
-        width: 102% !important;
+    .right-line-to-top,.home .center-line-to-top,
+    .left-line-to-top,.line-to-top,.line-one-top,
+    .line-to-right,.line-two-top,.line-to-right
+    {
+        display: none !important;
+    }
 
-	}
 }
+
 /*****************/
 /*css code after edits*/
 /* css code for black stone page */
@@ -79,6 +93,10 @@
     margin-top: 5%;
 }
 /**/
+.header-text
+{
+    z-index: 1 !important;
+}
 .header-text h2
 {
     max-width: 60% !important;
@@ -94,30 +112,7 @@
         font-size: 44px !important;
     }
 }
-@media (max-width: 767px)
-{
-    .readerIMG
-    {
-        margin-top: 30px;
-    }
-    .right-menu .Hoverd .dropdown-content
-    {
-        width: 95% !important;
-    }
-    .lang-content
-    {
-        left: 0 !important;
-    }
-    .gsc-control-cse
-    {
-        margin-top: 50% !important;
-    }
-    .gsc-control-cse
-    {
-        width: 98% !important;
-        left: 29% !important;
-    }
-}
+
 .two-top.right-lang{
     left: 0 !important;
     top: 80px;
@@ -142,13 +137,10 @@
 }
 .lang-content ul li a .active
 {
-    background-color:#2aaae1;
+    background-color:#32a5aa;
     color:#fff;
 }
-.lang-content 
-{
-    padding: 23px !important;
-}
+
 .quran
 {
     font-style: italic !important;
@@ -235,5 +227,113 @@
     {
         border:none !important;
     }
+    @media (max-width: 767px)
+{
+    .header-text h2
+    {
+        max-width: 100% !important;
+        margin-top: -20% !important;
+    }
+    .readerIMG
+    {
+        margin-top: 30px;
+    }
+    .right-menu .Hoverd .dropdown-content
+    {
+        width: 95% !important;
+    }
+    .lang-content
+    {
+        left: 0 !important;
+    }
+    .gsc-control-cse
+    {
+        margin-top: 58% !important;
+        width: 102% !important;
+        left: 27% !important;
+    }
+}
+@media(width: 812px)
+    {   
+        .islam2IMG
+        {
+            margin-bottom: 2%;
+        }
+        .readerIMG
+        {
+             margin-top: 4%;
+        }
+        .sum-dit
+    {
+        width: 80%;
+    }
+    .right-header-content h1
+    {
+        margin-top: -96% !important;
+        margin-left: 4% !important;
+        font-size: 31px !important
+    }
+    .right-header-content h3
+    {
+        margin-left: 4% !important;
+        font-size: 40px !important;
+    }
+    .what-the-islam-sec
+    {
+        display: none;
+    }
+    .right-header-content h2 {
+        color: #32a5aa;
+        text-align: left;
+        font-size: 43px;
+        /* margin-right: 131px; */
+        margin-left: 4%;
+    }
+}
+.lang-content ul li:hover b
+{
+        background-color: #32a5aa;
+}
+.lang-content 
+{
+    padding: 23px !important;
+    min-width: 522px !important;
+}
+.lang-content ul
+{
+    width: 106% !important;
+}
+@media (max-width: 767px)
+{
+    .five-things
+    {
+        padding-left: 0;
+    }
+    .lang-content {
+    padding: 23px !important;
+    min-width: 375px !important;
+    }
+    .lang-content ul li {
+    width: 50% !important;
+    }
+    .a-search-icon {
+        color: #32a5aa !important;
+        position: absolute !important;
+        font-size: 20px !important;
+        right: 4%;
+        margin-top: 50% !important;
+    }
+    .input-search {
+        margin-left: -1% !important;
+        width: 102% !important;
+
+    }
+    .right-line-to-top,.home .center-line-to-top,
+    .left-line-to-top,.line-to-top,.line-one-top,
+    .line-to-right,.line-two-top,.line-to-right
+    {
+        display: none !important;
+    }
+}
 /**********************/
 </style>

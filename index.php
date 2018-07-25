@@ -198,9 +198,10 @@ include ('header.php');
         </div>
 
     </div>
-
-    <div class="row z-index-105 z-index-105 padding-60px-y-top">
-        <div class="col-md-6 padding-right-0px">
+    
+    <div class="row z-index-105 z-index-105 padding-60px-y-top ">
+    <!--This div will be hidden in mobile-->
+        <div class="col-md-6 padding-right-0px five-things">
 
             <div class="img-parlex-right" style="background-image: url('img/img1.jpg')">
                 <div class="row right-box-big-khzoog">
