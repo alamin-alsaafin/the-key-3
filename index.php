@@ -168,7 +168,7 @@ include ('header.php');
     <div class="container-fluid">
     <div class="row z-index-105">
         <div class="col-md-6 padding-left-0px">
-            <div class="img-parlex-right" style="background-image: url('img/img3.jpg')"
+            <div class="img-parlex-right IMGforMobile" style="background-image: url('img/img3.jpg')"
                  data-850=" " data-1000=" ">
 
             </div>
@@ -180,7 +180,7 @@ include ('header.php');
                     data-850="" data-1000="">WHAT IS THE</h2>
                 <h1 class="top-title-big  wow fadeInUp" data-wow-duration="0.3s" data-wow-delay="0.9s"
                     data-850="" data-1000="">QUR’AN?</h1>
-                <p class="sum-dit  wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="1s"
+                <p class="sum-dit  wow fadeInUp forIphoneX" data-wow-duration="0.4s" data-wow-delay="1s"
                    data-850="" data-1000="">
                     The Qur’an is the constitution of the Muslims from which they derive the teachings which organize
                     both their reli gious and everyday aﬀairs. It diﬀers from the previous Divine

@@ -253,8 +253,24 @@
         left: 27% !important;
     }
 }
+@media(width: 1024px)
+{
+    .img-parlex-right
+    {
+        background-size: contain !important;
+    }
+}
 @media(width: 812px)
     {   
+        .forIphoneX
+        {
+            width: 194% !important;
+            margin-top: 34% !important;
+        }
+        .img-parlex-right
+        {
+            background-size: contain !important;
+        }
         .islam2IMG
         {
             margin-bottom: 2%;
@@ -289,6 +305,83 @@
         /* margin-right: 131px; */
         margin-left: 4%;
     }
+    .gsc-control-cse
+    {
+        left: 11%;
+    }
+}
+@media(width: 736px)
+{
+    .IMGforMobile
+    {
+        height: 325px !important;
+    }
+    .header-text h2 {
+    margin-top: -11% !important;
+}
+    .gsc-control-cse {
+    margin-top: 30% !important;
+}
+}
+@media(width: 667px)
+{
+    .header-text h2 {
+    margin-top: -11% !important;
+}
+    .IMGforMobile
+    {
+        height: 325px !important;
+    }
+    .gsc-control-cse {
+    margin-top: 30% !important;
+}
+}
+@media(width: 640px)
+{
+    .header-text h2 {
+    margin-top: -11% !important;
+}
+    .IMGforMobile
+    {
+        height: 325px !important;
+    }
+    .gsc-control-cse {
+    margin-top: 30% !important;
+}
+}
+@media(width: 731px)
+{
+    .header-text h2 {
+    margin-top: -11% !important;
+}
+    .IMGforMobile
+    {
+        height: 325px !important;
+    }
+    .gsc-control-cse {
+    margin-top: 30% !important;
+}
+}
+@media(width: 568px)
+{
+    .header-text h2 {
+    margin-top: -11% !important;
+}
+}
+@media(width: 823px)
+{
+    .forIphoneX
+        {
+            width: 194% !important;
+            margin-top: 34% !important;
+        }
+    .IMGforMobile
+    {
+        background-size: contain !important;
+    }
+    .gsc-control-cse {
+    margin-top: 30% !important;
+}
 }
 .lang-content ul li:hover b
 {
